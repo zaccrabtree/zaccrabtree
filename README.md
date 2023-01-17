@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaccrabtree
 - 👀 I’m interested in front end and back end software development
-- 🌱 I’m currently learning html, css, and javascript.
+- 🌱 I’m currently learning React, Angular, and Java.
 - 💞️ I’m looking to collaborate on various learning projects.
 - 📫 How to reach me zac.crabtree1@gmail.com
 
